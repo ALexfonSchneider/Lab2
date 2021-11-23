@@ -1,0 +1,17 @@
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.exe
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.deps.json
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.runtimeconfig.json
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.dll
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\ref\Lab2.dll
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\bin\Debug\net5.0-windows\Lab2.pdb
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.Form1.resources
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.dll
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\ref\Lab2.dll
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.pdb
+C:\Users\Alex\Desktop\Study\Лекции, пратика\ООП C#, 3-ий семестр\Lab2\Lab2\obj\Debug\net5.0-windows\Lab2.genruntimeconfig.cache
